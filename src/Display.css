@@ -1,0 +1,16 @@
+/* Display.css */
+div {
+    background-color: #f0f0f0;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Optional: Add some styling for text inside the display */
+  div p {
+    margin: 0;
+    font-size: 18px;
+    color: #333;
+  }
+  
